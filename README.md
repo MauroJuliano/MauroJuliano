@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is Mauro, I am IOS Developer.</strong>.<br>
-  I am studying computer science for Estacio.
+  Hello my name is Mauro Figueiredo, I am IOS Engineer.</strong>.<br>
+  I am studying computer science at Estacio.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Swift.</strong>
+  Linguagens: <strong>Swift.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>XCode, Photoshop, Figma, Adobe XD, Git and GitHub.</strong>
+  Ferramentas: <strong>XCode, Photoshop, Figma, Adobe XD, Git and GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message:  ⤵️
+  If you want to carry out a project with me (or make small talk), don't hesitate to send me a message:  ⤵️
 </p>
 
 <p align="left">
