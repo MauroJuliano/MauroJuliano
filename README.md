@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  Linguagens: <strong>Swift.</strong>
+  Languages: <strong>Swift.</strong>
 </p>
 
 <p align="left">
-  Ferramentas: <strong>XCode, Photoshop, Figma, Adobe XD, Git and GitHub.</strong>
+  Tools: <strong>XCode, Photoshop, Figma, Adobe XD, Git and GitHub.</strong>
 </p>
 
 <p align="left">
