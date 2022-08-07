@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  Tools: <strong>XCode, Photoshop, Figma, Adobe XD, Git and GitHub.</strong>
+  Tools: <strong>XCode, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
